@@ -96,6 +96,9 @@ The dataset contains complete loan data for all loans issued between 2007 and 20
 
 ## Results/Findings
 
+![image](https://github.com/user-attachments/assets/83d7c3f8-4e12-47df-a922-64540116339d)
+
+
 ### 1. Loan Status vs. Grade
 - **Observation:** The majority of loans in Grades B and C are "Fully Paid," indicating lower risk. However, a significant portion of "Charged Off" loans is also observed in lower grades, particularly Grades D, E, and F.
   
@@ -107,6 +110,9 @@ The dataset contains complete loan data for all loans issued between 2007 and 20
 
 ### 4. Employment Length (emp_len) Conversion
 - **Observation:** By converting employment length into categorical values, it was found that most borrowers fall under the "Senior" and "Expert" categories, which may correlate with higher chances of loan repayment.
+
+  ![image](https://github.com/user-attachments/assets/020e7070-69ee-48a5-b48c-7fc074cab3a7)
+
 
 ### 5. Loan Amount Distribution by Grade
 - **Observation:** The pie chart shows that loans in Grade B have the highest sum of `loan_amnt`, followed by Grades C and A. This distribution indicates that most borrowers fall within the mid-range risk categories.
